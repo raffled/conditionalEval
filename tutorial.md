@@ -148,13 +148,13 @@ content, you wouldn't want to copy the makefile into every section/chapter/cours
 subdirectory.  A more ideal situation would be to have the makefile in a parent
 directory and reference it from your subdirectories when compiling.
 
-GNU allows you to do this with the `-f` flag.  For example, if you were writing content
+GNU Make allows you to do this with the `-f` flag.  For example, if you were writing content
 for Section 3 of Chapter 2 from the course Foo-101, and you organized your files
 by semester, you might be in the working directory
 `~/Teaching/F2015/Foo-101/C02/S03/`, you can keep a single makefile
 in `~/Documents/Teaching/`.
 
-```
+```{bash}
 make source=chap02S03.Rmd notes_doc_html -f ~/Teaching/makefile
 ```
 
