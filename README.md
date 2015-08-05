@@ -16,6 +16,8 @@ Source code and information can be found at his personal site here:
 [http://en.nothingisreal.com/wiki/GPP](http://en.nothingisreal.com/wiki/GPP).
 
 ### Using this software
-
+See the
+[https://github.com/raffled/conditionalEval/blob/master/tutorial.md](tutorial)
+for more detailed information and example.
 
 
