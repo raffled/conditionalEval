@@ -1,6 +1,6 @@
 ---
-title: R Markdown Makefile Examples
-output: pdf_document
+title: "R Markdown Makefile Examples"
+output: html_document
 ---
 
 # Overview
