@@ -18,6 +18,6 @@ Source code and information can be found at his personal site here:
 ### Using this software
 See the
 [tutorial](https://github.com/raffled/conditionalEval/blob/master/tutorial.md)
-for more detailed information and example.
+for more detailed information and examples.
 
 
